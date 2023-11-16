@@ -1,10 +1,5 @@
 # Mr.Red's Website Template
 
-## How To Use
-Sure, I'll provide the translated guide in English first, and then I'll present it in Markdown (md) format.
-
----
-
 # User Guide: Harun Yahya Aydın Web Page
 
 This user guide explains step by step how to use the "Harun Yahya Aydın" web page.
