@@ -1,6 +1,7 @@
 # Mr.Red's Website Template
 
 # review the Web Site
+### https://harunadam0.github.io/Mr.RedSiteTemplate/
 
 # User Guide: Harun Yahya Aydın Web Page
 
@@ -24,11 +25,12 @@ At the beginning of the webpage, there are essential elements that define the ti
 <html lang="tr">
 
 <head>
-    <meta charset="UTF-8">
+    meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="style.css">
-    <title>Harun Yahya Aydın</title>
+    <link rel="icon" type="image/png" href="assets/logo.png"/>
+    <title>Mr.Red</title>
 </head>
 ```
 
@@ -37,6 +39,7 @@ At the beginning of the webpage, there are essential elements that define the ti
 - `boxicons`: Stylesheet containing icons used on the page.
 - `style.css`: Custom stylesheet.
 - `title`: Page title.
+- `icon`: Page title İmage.
 
 ---
 
