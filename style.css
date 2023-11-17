@@ -235,3 +235,45 @@ header .info-text .scroll::before{
     }
 
 }
+
+/* ... (Footer) ... */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-info,
+.personal-note {
+    width: 45%;
+}
+
+/* İletişim Köşesi */
+.contact-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    font-size: 14px;
+}
+
+/* Kişisel Not */
+.personal-note p {
+    font-size: 14px;
+}
+
+/* Telif Hakkı Metni */
+footer p {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+/* ... (Diğer stil kodları) ... */
